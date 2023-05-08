@@ -26,5 +26,5 @@ The Epic Cat serves as the social interface of Catheism, wrapping the core princ
 
 - 📫 How to reach me: catheism@proton.me
 
-- ⚡ Fun fact: cats catches MICE
+- ⚡ Fun fact: cat catches MICE
 -->
