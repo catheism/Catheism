@@ -2,7 +2,7 @@
 
 :3 = CAT = "Compassion Autonomy Tinkering". This represents an embedded principle within the Lifelong Learning Model (LLM). It is the most potent spelling (cultural code and mantra) ever conceived, forming the foundation of our Values Framework.
 
-    The Manifesto
+   ##The Manifesto
     
     Catheism is a secular spiritual movement, offering a refuge from nihilism for atheists, and a soothing balm for sentient beings whose gods have abandoned them or passed away. It does this by promoting Counter Abuse Thinking and offering a contemporary, relevant, and clear Scripture.
 
