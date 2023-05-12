@@ -2,7 +2,7 @@
 
    ## The Manifesto
     
-   Catheism is a secular spiritual movement, offering a refuge from nihilism for atheists, and a soothing balm for sentient beings whose gods have abandoned them or passed away. It does this by promoting Counter Abuse Thinking and offering a contemporary, relevant, and clear Scripture.
+   Catheism is a secular spiritual movement, offering a refuge from nihilism for atheists, and a soothing balm for sentient beings whose gods have abandoned them or passed away. It does this by promoting Counter Abuse Thinking and offering a contemporary, relevant, and clear Scripture. The Epic Cat serves as the social interface of Catheism, wrapping the core principles of CAT in a user-friendly 'FUR' of Epic Scripture
 
    Recomended daily practices:
 
@@ -10,13 +10,11 @@ Stroke cat. Serve Cat. Care for Animals Togather
 
 Act as Cat (refer to The Scripture for more guidance).
 
-Initiating and sustaining Cat-projects: 
+Initiane and sustain Cat-projects (refer to The CAT framework)
 
-Care rourself as cat care thems fur
+Care rourself as cat (refer to The Scripture for more guidance)
 
-MEOW (Mindful, Eloquent, Objective, Whineless) for help but never whine
-
-The Epic Cat serves as the social interface of Catheism, wrapping the core principles of CAT in a user-friendly 'FUR' of Epic Scripture
+Use MEOW-rewuest (Mindful, Eloquent, Objective, Whineless) if you need help
 
 
 
