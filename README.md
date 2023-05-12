@@ -12,7 +12,7 @@ Act as Cat (refer to The Scripture for more guidance).
 
 Initiane and sustain Cat-projects (refer to The CAT framework)
 
-Care rourself as cat (refer to The Scripture for more guidance)
+Care yourself as cat (refer to The Scripture for more guidance)
 
 Use MEOW-rewuest (Mindful, Eloquent, Objective, Whineless) if you need help
 
