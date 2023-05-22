@@ -24,7 +24,6 @@ Initiate and sustain Cat-projects (refer to The CAT framework).
 
 Care for yourself as a cat (refer to The Scripture for more guidance).
 
-vbnet
 
 🔭 We are currently working on Catheism and we hope that cats will save humans from chaos and nihilism.
 
