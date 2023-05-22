@@ -33,8 +33,3 @@ vbnet
 📫 How to reach me: catheism@proton.me.
 
 ⚡ Fun fact: a cat catches MICE -->
-
-- 📫 How to reach me: catheism@proton.me
-
-- ⚡ Fun fact: cat catches MICE
--->
