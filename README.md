@@ -37,7 +37,8 @@ Recommended daily practices:
 3. Initiate and sustain Cat-projects (refer to The CAT framework).
 
 4. Care for yourself as a cat (refer to The Scripture for CAT-wellbeing practices).
-
+   Use other science based simple and safe wellbeig tools.
+   
 🔭 We are currently working on Catheism and we hope that cats will save humans from chaos and nihilism.
 
 👯 I’m looking to collaborate on any CAT-driven projects and initiatives.
