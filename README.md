@@ -14,13 +14,13 @@ Recommended daily practices:
 
     Have fun and play.
 
-    Avoid cockfights and monkey business.
+    Avoid cockfights, monkey business and binary oppositions.
 
-    Know and defend your territory.
+    Know and defend your boundaries.
   
     Know your neighbours and respect their boundaries.
 
-2. MEOW, PUR and HISS:
+2. Use CAT language.
 
     Use MEOW-request (Mindful, Eloquent, Objective, Whineless) for help.
 
