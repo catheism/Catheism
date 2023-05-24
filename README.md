@@ -36,8 +36,9 @@ Recommended daily practices:
 
 3. Initiate and sustain Cat-projects (refer to The CAT framework).
 
-4. Care for yourself as a cat (refer to The Scripture for CAT-wellbeing practices).
-   Use other science based simple and safe wellbeig tools.
+4. Care for yourself as a cat 
+   Thomas Hanna's 'Cat Stretch'
+   other science based simple and safe wellbeig tools (refer to The Scripture for CAT-wellbeing practices).
    
 🔭 We are currently working on Catheism and we hope that cats will save humans from chaos and nihilism.
 
