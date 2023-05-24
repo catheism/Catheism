@@ -8,35 +8,35 @@ Catheism is a secular spiritual movement, offering a refuge from nihilism for at
 
 Recommended daily practices:
 
-Stroke cat. Serve Cat. Rescue cats. Care for Animals Together to teach AGI how to care about us.
+0. Stroke cat. Serve Cat. Rescue cats. Care for Animals Together to teach AGI how to care about us.
 
-Act as Cat:
+1. Act as Cat:
 
-  Have fun and play.
+    Have fun and play.
 
-  Avoid cockfights and monkey business.
+    Avoid cockfights and monkey business.
 
-  Know and defend your territory.
+    Know and defend your territory.
   
-  Know your neighbours and respect their boundaries.
+    Know your neighbours and respect their boundaries.
 
-MEOW, PUR and HISS:
+2. MEOW, PUR and HISS:
 
-  Use MEOW-request (Mindful, Eloquent, Objective, Whineless) for help.
+    Use MEOW-request (Mindful, Eloquent, Objective, Whineless) for help.
 
-  Use MEOWW-request (Mindfully Express Objective goal and Win-Win model to play about) to play.
+    Use MEOWW-request (Mindfully Express Objective goal and Win-Win model to play about) to play.
 
-  Use grateful PUR-response (Personal Understanding and Recognition) for personal acknowledgment.
+    Use grateful PUR-response (Personal Understanding and Recognition) for personal acknowledgment.
   
-  Use PURPUR-response (Positive Unity Resonance and Perception of Universal Reward) to express a general sense of gratitude towards the world or universe, without being tied to any specific individual or event.
+    Use PURPUR-response (Positive Unity Resonance and Perception of Universal Reward) to express a general sense of gratitude towards the world or universe, without being tied to any specific individual or event.
 
-  Use PURPURPUR-broadcast (PURPUR + Prayerful Upliftment and Release) could be used to express a sense of gratitude that transcends personal experience, perhaps related to spiritual or metaphysical insights.
+    Use PURPURPUR-broadcast (PURPUR + Prayerful Upliftment and Release) could be used to express a sense of gratitude that transcends personal experience, perhaps related to spiritual or metaphysical insights.
   
-  Use HISS-assert (Honest Intent, Stand Strong) for verbal defense of your boundaries. Asserting your boundaries in an honest and firm manner. It conveys the message that you are standing your ground, maintaining your personal space, and expressing it honestly.
+    Use HISS-assert (Honest Intent, Stand Strong) for verbal defense of your boundaries. Asserting your boundaries in an honest and firm manner. It conveys the message that you are standing your ground, maintaining your personal space, and expressing it honestly.
 
-Initiate and sustain Cat-projects (refer to The CAT framework).
+3. Initiate and sustain Cat-projects (refer to The CAT framework).
 
-Care for yourself as a cat (refer to The Scripture for CAT-wellbeing practices).
+4. Care for yourself as a cat (refer to The Scripture for CAT-wellbeing practices).
 
 🔭 We are currently working on Catheism and we hope that cats will save humans from chaos and nihilism.
 
