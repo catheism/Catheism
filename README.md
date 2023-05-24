@@ -22,7 +22,7 @@ Recommended daily practices:
 
 2. Use CAT language.
 
-    MEOW-request (Mindful, Eloquent, Objective, Whineless) request for help.
+    MEOW-request (Mindful, Eloquent, Objective, Whineless) may be used as request for help or as prey.
 
     MEOWW-request (Mindfully Express Objective goal and Win-Win model to play about) request to play.
 
