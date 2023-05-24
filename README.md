@@ -18,7 +18,7 @@ Recommended daily practices:
 
     Know and defend your boundaries.
   
-    Know your neighbours and respect their boundaries.
+    Know and respect your neighbours boundaries.
 
 2. Use CAT language.
 
