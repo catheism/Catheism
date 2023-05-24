@@ -36,7 +36,8 @@ Recommended daily practices:
 
 3. Initiate and sustain Cat-projects (refer to The CAT framework).
 
-4. Care for yourself as a cat 
+4. Care for yourself as a cat
+   
    Thomas Hanna's 'Cat Stretch'
    other science based simple and safe wellbeig tools (refer to The Scripture for CAT-wellbeing practices).
    
