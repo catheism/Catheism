@@ -32,6 +32,7 @@ Care for yourself as a cat:
 - Play with new apps and tools for at least 30 minutes a day.
 - Care about your hygiene for at least 40 minutes a day. Use healthcare gadgets and apps (fitness trackers, neuro feedback, VR).
 - Watch out the window calmly and with interest for 5-15 minutes daily.
+- Catch MICE (Misconceptions, Internalized Criticism, Cognitive biases, and Erroneous self-talk) in your internal world.
 - Feed your body as you feed your cat. Twice a day.
 - Have 24/7 access to fresh water.
 - Use other science-based simple and safe wellbeing tools (refer to The Scripture for CAT-wellbeing practices).
