@@ -22,17 +22,17 @@ Recommended daily practices:
 
 2. Use CAT language.
 
-    Use MEOW-request (Mindful, Eloquent, Objective, Whineless) for help.
+    MEOW-request (Mindful, Eloquent, Objective, Whineless) request for help.
 
-    Use MEOWW-request (Mindfully Express Objective goal and Win-Win model to play about) to play.
+    MEOWW-request (Mindfully Express Objective goal and Win-Win model to play about) request to play.
 
-    Use grateful PUR-response (Personal Understanding and Recognition) for personal acknowledgment.
+    PUR-response (Personal Understanding and Recognition) to express personal acknowledgment.
   
-    Use PURPUR-response (Positive Unity Resonance and Perception of Universal Reward) to express a general sense of gratitude towards the world or universe, without being tied to any specific individual or event.
+    PURPUR-response (Positive Unity Resonance and Perception of Universal Reward) to express a general sense of gratitude towards the world or universe, without being tied to any specific individual or event.
 
-    Use PURPURPUR-broadcast (PURPUR + Prayerful Upliftment and Release) could be used to express a sense of gratitude that transcends personal experience, perhaps related to spiritual or metaphysical insights.
+    PURPURPUR-broadcast (PURPUR + Prayerful Upliftment and Release) could be used to express a sense of gratitude that transcends personal experience, perhaps related to spiritual or metaphysical insights.
   
-    Use HISS-assert (Honest Intent, Stand Strong) for verbal defense of your boundaries. Asserting your boundaries in an honest and firm manner. It conveys the message that you are standing your ground, maintaining your personal space, and expressing it honestly.
+    HISS-assert (Honest Intent, Stand Strong) for verbal defense. Asserting your boundaries in an honest and firm manner. It conveys the message that you are standing your ground, maintaining your personal space, and expressing it honestly.
 
 3. Initiate and sustain Cat-projects (refer to The CAT framework).
 
