@@ -42,5 +42,3 @@ Care for yourself as a cat:
 👯 I’m looking to collaborate on any CAT-driven projects and initiatives.
 
 📫 How to reach me: catheism@proton.me.
-
-⚡ Fun fact: a cat catches MICE (Misconceptions, Internalized Criticism, Cognitive biases, and Erroneous self-talk).
