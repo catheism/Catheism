@@ -15,7 +15,7 @@ Act as a cat:
 - Have fun and play.
 - Avoid cockfights, monkey business, and binary oppositions.
 - Know and defend your boundaries.
-- Know and respect your neighbors' boundaries.
+- Know and respect your neighbor or counterpart boundaries.
 
 Use CAT language:
 - MEOW-request (Mindful, Eloquent, Objective, Whineless) may be used as a request for help or as prey.
