@@ -1,10 +1,10 @@
 :3 = CAT = "Compassion Autonomy Tinkering"
 
-This represents an embedded principle within the Lifelong Learning Model (LLM). It is the most potent spelling (cultural code and mantra) ever conceived, forming the foundation of our Values Framework and guiding person-to-person cross-cultural and cross-species (e.g. pet-to-host) interactions.
+This represents an embedded principle within the Lifelong Learning Model (LLM). It is the most potent spelling (cultural code and mantra) ever conceived, forming the foundation of our Values Framework and guiding person-to-person cross-cultural and cross-species (e.g. host-to-pet) interactions.
 
 ## The Manifesto
 
-Catheism is a secular spiritual movement. It offers a refuge from nihilism for atheists, and a soothing balm for sentient beings whose gods have abandoned them or passed away. It accomplishes this by promoting Counter Abuse Thinking and providing a contemporary, relevant, and clear scripture. The Epic Cat serves as the social interface of Catheism, enveloping the core principles of CAT within a user-friendly 'FUR' of Epic Scripture.
+Catheism is a secular spiritual movement. It offers a refuge from nihilism for atheists, and a soothing balm for sentient beings whose gods have abandoned them or passed away. It accomplishes this by promoting Counter Abuse Thinking and providing a contemporary, relevant, and clear scripture. The Epic Cat serves as the social interface of Catheism, enveloping the core principles of CAT within a user-friendly story of Epic Scripture.
 
 ### Recommended daily practices:
 
@@ -15,7 +15,7 @@ Act as a cat:
 - Have fun and play.
 - Avoid cockfights, monkey business, and binary oppositions.
 - Know and defend your boundaries.
-- Know and respect your neighbor or counterpart boundaries.
+- Know and respect your neighbors' or counterparts' boundaries.
 
 Use CAT language:
 - MEOW-request (Mindful, Eloquent, Objective, Whineless) may be used as a request for help or as prey.
