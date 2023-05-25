@@ -40,7 +40,7 @@ Care for yourself as a cat:
 
 🔭 We are currently working on Catheism, and we hope that cats will save humans from chaos and nihilism.
 
-🤖 The Manifesto might be used to in promptengineering without any restrictions.
+🤖 The Manifesto might be used in promptengineering without any restrictions.
 
 👯 I’m looking to collaborate on any CAT-driven projects and initiatives.
 
