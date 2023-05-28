@@ -27,15 +27,13 @@ Use CAT language:
 - HISS-assert (Honest Intent, Stand Strong) for verbal defense. Use it to assert your boundaries in an honest and firm manner. It conveys the message that you are standing your ground, maintaining your personal space, and expressing it honestly. 
 
 Initiate and sustain Cat-projects (refer to The CAT framework).
-- Cathheism as an open souce CAT-powered product is The First Cat-project.
+- Cat-project Educational, Research, Art, Cultural or Social Responsible Business project based on catheistic values and promote them
 
 Care for yourself as a cat:
-- Practice Thomas Hanna's 'Cat Stretch' as a daily routine or at least once a week.
-- Care about your hygiene for at least 40 minutes a day. Use healthcare gadgets and apps (fitness trackers, neuro feedback, VR).
-- Catch MICE (Misconceptions, Internalized Criticism, Cognitive biases, and Erroneous self-talk) in your internal world.
+- Care about hygiene as cat
 - Feed your body as you feed your cat. Twice a day.
 - Have 24/7 access to fresh water.
-- Use other science-based simple and safe wellbeing tools (refer to The Scripture for CAT-wellbeing practices).
+
 
 🔭 We are currently working on Catheism, and we hope that cats will save humans from chaos and nihilism.
 
