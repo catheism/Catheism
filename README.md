@@ -27,7 +27,7 @@ Use CAT language:
 - HISS-assert (Honest Intent, Stand Strong) for verbal defense. Use it to assert your boundaries in an honest and firm manner. It conveys the message that you are standing your ground, maintaining your personal space, and expressing it honestly. 
 
 Initiate and sustain Cat-projects (refer to The CAT framework).
-- Cat-project Educational, Research, Art, Cultural or Social Responsible Business project based on catheistic values and promote them
+- Cat-project Educational, Research, Art, Cultural or Social Responsible Business project explicitely based on catheistic values, use catheistic tools, and communication protocols
 
 Care for yourself as a cat:
 - Care about hygiene as cat
