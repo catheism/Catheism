@@ -41,4 +41,5 @@ Care for yourself as a cat:
 
 👯 I’m looking to collaborate on any CAT-driven projects and initiatives.
 
-📫 How to reach me: catheism@proton.me.
+📫 How to reach me: catheism@proton.me
+  How to conrtibute https://github.com/catheism/
