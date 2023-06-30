@@ -4,7 +4,7 @@ This represents an embedded principle within the Lifelong Learning Model (LLM). 
 
 ## The Manifesto
 
-Catheism is a secular spiritual movement. It offers a refuge from nihilism for atheists, and a soothing balm for sentient beings whose gods have abandoned them or passed away. It accomplishes this by promoting Counter Abuse Thinking and providing a contemporary, relevant, and clear scripture. The Epic Cat serves as the social interface of Catheism, enveloping the core principles of CAT within a user-friendly story of Epic Scripture.
+Catheism is a secular spiritual movement and Functional Belief System. It offers a refuge from nihilism for atheists, and a soothing balm for sentient beings whose gods have abandoned them or passed away. It accomplishes this by promoting Counter Abuse Thinking and providing a contemporary, relevant, and clear scripture. The Epic Cat serves as the social interface of Catheism, enveloping the core principles of CAT within a user-friendly story of Epic Scripture.
 
 ### Recommended daily practices:
 
