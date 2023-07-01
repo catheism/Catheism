@@ -39,7 +39,5 @@ Care for yourself as a cat:
 
 🤖 The Manifesto might be used in promptengineering without any restrictions.
 
-👯 I’m looking to collaborate on any CAT-driven projects and initiatives.
-
-📫 How to reach me: catheism@proton.me
+👯 I’m looking to collaborate on any CAT-driven projects and initiatives
   How to conrtibute https://github.com/catheism/
